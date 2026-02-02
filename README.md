@@ -96,5 +96,5 @@ Me chamo Camila Palma, tenho 23 anos e sou de São Paulo. Conclui a faculdade de
     align="left" 
     alt="GitHub Top Langs" 
     height="200" 
-    <img align="left" height="200" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs?username=CamilaDrozd&theme=synthwave&layout=compact&custom_title=Tecnologias&langs_count=7" /> 
+     align="left" height="200" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs?username=CamilaDrozd&theme=synthwave&layout=compact&custom_title=Tecnologias&langs_count=7" /
 />
